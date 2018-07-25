@@ -1,0 +1,110 @@
+[
+  {
+    "id": 145,
+    "name": "HOME",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/1%20home.jpg",
+    "price": 0,
+    "priceCurrency": "km",
+    "lat": 16.616192,
+    "lng": 120.329000
+  },
+  {
+    "id": 148,
+    "name": "Siargao Island",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/2%20siargao.jpg",
+    "price": 971,
+    "priceCurrency": "km",
+    "lat": 9.850686,
+    "lng": 126.038941
+  },
+  {
+    "id": 201,
+    "name": "Kawasan Falls Badain Cebu",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/3%20kawasan%20falls.jpg",
+    "price": 1,183.5,
+    "priceCurrency": "km",
+    "lat": 9.802377,
+    "lng": 123.374332
+  },
+  {
+    "id": 205,
+    "name": "El-nido Palawan",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/4%20el%20nido.jpg",
+    "price": 902.3,
+    "priceCurrency": "km",
+    "lat": 11.177895,
+    "lng": 119.388622
+  },
+  {
+    "id": 211,
+    "name": "Chocolate Hills Bohol",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/5%20chocolate%20hills.jpg",
+    "price": 1,211.3,
+    "priceCurrency": "km",
+    "lat": 9.829581,
+    "lng": 124.139675
+  },
+  {
+    "id": 212,
+    "name": "Baguio",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/6%20baguio.jpg",
+    "price":64.1,
+    "priceCurrency": "km",
+    "lat": 16.433329,
+    "lng": 120.597289
+  },
+  {
+    "id": 212,
+    "name": "Calatagan Batangas",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/7%20batangas.jpg",
+    "price": 420.6,
+    "priceCurrency": "km",
+    "lat": 13.799761,
+    "lng": 120.633886
+      },
+  {
+    "id": 212,
+    "name": "Agusan del norte",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/8%20agusan%20del%20norte.jpg",
+    "price":1,510.6,
+    "priceCurrency": "km",
+    "lat": 9.093804,
+    "lng": 125.208390
+  },
+  {
+    "id": 212,
+    "name": "Bolinao Pangasinan",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/9%20bolinao.jpg",
+    "price": 191.6,
+    "priceCurrency": "km",
+    "lat": 16.343529,
+    "lng": 19.803802
+  },
+  {
+    "id": 212,
+    "name": "Cebu Taoist Temple",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/10%20cebu.jpg",
+    "price": 1,140.7,
+    "priceCurrency": "km",
+    "lat": 10.334211,
+    "lng": 123.888043
+  },
+  {
+    "id": 212,
+    "name": "Hundred Islands",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/11%20hundred%20islands.jpg",
+    "price": 145.9,
+    "priceCurrency": "km",
+    "lat": 16.204147,
+    "lng": 120.040047
+  },
+  {
+    "id": 212,
+    "name": "10000 Roses Cebu",
+    "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/12%201000%20flowers%20cebu.jpg",
+    "price": 1,144.8,
+    "priceCurrency": "km",
+    "lat": 10.256552,
+    "lng": 123.932410
+  }
+]
