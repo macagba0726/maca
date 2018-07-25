@@ -66,7 +66,7 @@
     "id": 212,
     "name": "Agusan del norte",
     "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/8%20agusan%20del%20norte.jpg",
-    "price":1,510.6,
+    "price":1510.6,
     "priceCurrency": "km",
     "lat": 9.093804,
     "lng": 125.208390
@@ -102,7 +102,7 @@
     "id": 212,
     "name": "10000 Roses Cebu",
     "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/12%201000%20flowers%20cebu.jpg",
-    "price": 1,144.8,
+    "price": 1144.8,
     "priceCurrency": "km",
     "lat": 10.256552,
     "lng": 123.932410
