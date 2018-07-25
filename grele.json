@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Kawasan Falls Badain Cebu",
     "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/3%20kawasan%20falls.jpg",
-    "price": 1,183.5,
+    "price": 1,1835,
     "priceCurrency": "km",
     "lat": 9.802377,
     "lng": 123.374332
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "El-nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/4%20el%20nido.jpg",
-    "price": 902.3,
+    "price": 9023,
     "priceCurrency": "km",
     "lat": 11.177895,
     "lng": 119.388622
@@ -39,7 +39,7 @@
     "id": 211,
     "name": "Chocolate Hills Bohol",
     "imageUrl": "https://raw.githubusercontent.com/macagba0726/maca/master/hh/5%20chocolate%20hills.jpg",
-    "price": 1,211.3,
+    "price": 1,2113,
     "priceCurrency": "km",
     "lat": 9.829581,
     "lng": 124.139675
